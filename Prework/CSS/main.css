@@ -1,0 +1,35 @@
+body {
+    background-color: aqua;
+    padding: 20px;
+}
+h2 {
+    color:blue;
+    font-weight: 300;
+    font-family: fantasy;
+}
+nav{ position: fixed;
+}
+
+.subheader {
+    color: red ;
+    text-decoration: underline;
+}
+
+#storydiv {
+    background-color: rebeccapurple;
+    color: white;
+    text-decoration: wavy;
+    font-weight: 100;
+
+}
+
+#videodiv {
+    position: absolute;
+    margin: 100px;
+    padding: 50px;
+}
+
+#storydiv {
+    position: relative;
+    padding:50px;
+}
